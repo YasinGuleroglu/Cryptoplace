@@ -1,6 +1,7 @@
 # 💹 CryptoPlace
 
 https://github.com/user-attachments/assets/f112b1b0-af2b-43f4-af2a-0e5c33f2e3af
+![demo](https://github.com/user-attachments/assets/f112b1b0-af2b-43f4-af2a-0e5c33f2e3af)
 
 
 -----------------------------------------------------------------------------------
